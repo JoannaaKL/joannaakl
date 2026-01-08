@@ -4,6 +4,19 @@ Backend Software Engineer working on developer platforms and AI-powered systems.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JoannaaKL&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=default"
+    height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoannaaKL&layout=compact&hide_title=true&theme=default"
+    height="160"/>
+</p>
+
+---
+
 ### 🔗 Connect with me
 
 <p align="left">
